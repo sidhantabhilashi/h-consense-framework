@@ -1,0 +1,22 @@
+{
+  "n_nodes": 9,
+  "node_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "matrix_shape": [
+    9,
+    9
+  ],
+  "matrix_min": 0.7660256410256411,
+  "matrix_max": 1.0,
+  "similarity_metric": "Jaccard",
+  "note": "matrix[i][j] = |items_i \u2229 items_j| / |items_i \u222a items_j|"
+}

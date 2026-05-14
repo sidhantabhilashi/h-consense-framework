@@ -1,0 +1,5 @@
+method,hit_rate,vs_random
+LRU (recency),0.094117,2.539
+LFU (popularity),0.167923,4.531
+Flat FedAvg,0.175771,4.742
+H-GNN-Consense (ours),0.175514,4.735

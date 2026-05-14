@@ -1,0 +1,10 @@
+{
+  "cache_size_k": 50,
+  "random_baseline": 0.037064,
+  "lfu_hit_rate": 0.167923,
+  "lru_hit_rate": 0.094117,
+  "flat_fedavg_hit_rate": 0.175771,
+  "hgnn_consense_hit_rate": 0.175514,
+  "total_time_sec": 17.5,
+  "completed_at": "2026-05-12T07:43:31.575390+00:00"
+}

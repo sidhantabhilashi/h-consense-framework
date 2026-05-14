@@ -1,0 +1,21 @@
+{
+  "cache_size_k": 50,
+  "n_nodes": 9,
+  "total_requests": 19497,
+  "total_hits": 3422,
+  "overall_hit_rate": 0.175514,
+  "per_node_hit_rates": {
+    "0": 0.183954,
+    "1": 0.168638,
+    "2": 0.157183,
+    "3": 0.191839,
+    "4": 0.172028,
+    "5": 0.179834,
+    "6": 0.175166,
+    "7": 0.207582,
+    "8": 0.153652
+  },
+  "model_used": "global_lightgcn.pt",
+  "completed_at": "2026-05-12T07:33:29.901706",
+  "total_time_sec": 0.1
+}

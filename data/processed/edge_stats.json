@@ -1,0 +1,65 @@
+[
+  {
+    "node_id": 0,
+    "n_users": 105,
+    "n_interactions": 9220,
+    "n_items": 1178,
+    "avg_per_user": 87.81
+  },
+  {
+    "node_id": 1,
+    "n_users": 105,
+    "n_interactions": 9343,
+    "n_items": 1130,
+    "avg_per_user": 88.98
+  },
+  {
+    "node_id": 2,
+    "n_users": 105,
+    "n_interactions": 8779,
+    "n_items": 1167,
+    "avg_per_user": 83.61
+  },
+  {
+    "node_id": 3,
+    "n_users": 105,
+    "n_interactions": 8705,
+    "n_items": 1166,
+    "avg_per_user": 82.9
+  },
+  {
+    "node_id": 4,
+    "n_users": 105,
+    "n_interactions": 8790,
+    "n_items": 1137,
+    "avg_per_user": 83.71
+  },
+  {
+    "node_id": 5,
+    "n_users": 105,
+    "n_interactions": 9388,
+    "n_items": 1171,
+    "avg_per_user": 89.41
+  },
+  {
+    "node_id": 6,
+    "n_users": 105,
+    "n_interactions": 9216,
+    "n_items": 1177,
+    "avg_per_user": 87.77
+  },
+  {
+    "node_id": 7,
+    "n_users": 104,
+    "n_interactions": 6641,
+    "n_items": 1067,
+    "avg_per_user": 63.86
+  },
+  {
+    "node_id": 8,
+    "n_users": 104,
+    "n_interactions": 9708,
+    "n_items": 1237,
+    "avg_per_user": 93.35
+  }
+]

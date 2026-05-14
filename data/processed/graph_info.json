@@ -1,0 +1,10 @@
+{
+  "n_users": 943,
+  "n_items": 1349,
+  "n_nodes": 2292,
+  "n_edges": 159580,
+  "n_interactions": 79790,
+  "format": "COO \u2014 src.npy + dst.npy, int64, no self-loops",
+  "node_convention": "users: 0..n_users-1 | items: n_users..n_users+n_items-1",
+  "note": "Bidirectional. Load with np.load(). Convert to torch in Module 3."
+}

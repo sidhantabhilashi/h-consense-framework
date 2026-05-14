@@ -1,0 +1,32 @@
+{
+  "experiments": {
+    "E1 \u2014 Cache Hit Rate": {
+      "elapsed_sec": 1.88,
+      "status": "ok",
+      "error": null
+    },
+    "E2 \u2014 NDCG Convergence": {
+      "elapsed_sec": 3.05,
+      "status": "ok",
+      "error": null
+    },
+    "E3 \u2014 Communication Cost": {
+      "elapsed_sec": 0.09,
+      "status": "ok",
+      "error": null
+    },
+    "E4 \u2014 Scalability": {
+      "elapsed_sec": 3.47,
+      "status": "ok",
+      "error": null
+    },
+    "E5 \u2014 Cluster Size Effect": {
+      "elapsed_sec": 0.34,
+      "status": "ok",
+      "error": null
+    }
+  },
+  "all_outputs_present": true,
+  "total_time_sec": 8.8,
+  "completed_at": "2026-05-12T08:00:13.754363+00:00"
+}

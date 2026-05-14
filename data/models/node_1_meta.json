@@ -1,0 +1,14 @@
+{
+  "node_id": 1,
+  "n_users": 943,
+  "n_items": 1349,
+  "emb_dim": 64,
+  "n_layers": 3,
+  "n_epochs": 50,
+  "final_loss": 0.661856,
+  "recall@10": 0.254822,
+  "ndcg@10": 0.237666,
+  "local_train_interactions": 9343,
+  "local_users": 105,
+  "skipped": false
+}

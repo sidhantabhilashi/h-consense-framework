@@ -1,0 +1,12 @@
+{
+  "n_users": 943,
+  "n_items": 1349,
+  "n_train_interactions": 79790,
+  "n_test_interactions": 19497,
+  "n_total_interactions": 99287,
+  "avg_train_per_user": 84.61,
+  "avg_test_per_user": 20.68,
+  "seed": 42,
+  "min_user_ratings": 5,
+  "min_item_ratings": 5
+}

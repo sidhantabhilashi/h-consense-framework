@@ -1,0 +1,74 @@
+[
+  {
+    "node_id": 0,
+    "hits": 415,
+    "misses": 1841,
+    "total": 2256,
+    "hit_rate": 0.183954,
+    "cache_size": 50
+  },
+  {
+    "node_id": 1,
+    "hits": 385,
+    "misses": 1898,
+    "total": 2283,
+    "hit_rate": 0.168638,
+    "cache_size": 50
+  },
+  {
+    "node_id": 2,
+    "hits": 337,
+    "misses": 1807,
+    "total": 2144,
+    "hit_rate": 0.157183,
+    "cache_size": 50
+  },
+  {
+    "node_id": 3,
+    "hits": 409,
+    "misses": 1723,
+    "total": 2132,
+    "hit_rate": 0.191839,
+    "cache_size": 50
+  },
+  {
+    "node_id": 4,
+    "hits": 369,
+    "misses": 1776,
+    "total": 2145,
+    "hit_rate": 0.172028,
+    "cache_size": 50
+  },
+  {
+    "node_id": 5,
+    "hits": 412,
+    "misses": 1879,
+    "total": 2291,
+    "hit_rate": 0.179834,
+    "cache_size": 50
+  },
+  {
+    "node_id": 6,
+    "hits": 395,
+    "misses": 1860,
+    "total": 2255,
+    "hit_rate": 0.175166,
+    "cache_size": 50
+  },
+  {
+    "node_id": 7,
+    "hits": 334,
+    "misses": 1275,
+    "total": 1609,
+    "hit_rate": 0.207582,
+    "cache_size": 50
+  },
+  {
+    "node_id": 8,
+    "hits": 366,
+    "misses": 2016,
+    "total": 2382,
+    "hit_rate": 0.153652,
+    "cache_size": 50
+  }
+]
